@@ -1,0 +1,46 @@
+{
+  "name": "koa-socket-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "read": "node sniffer.js read"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^5.0.5",
+    "co": "^4.6.0",
+    "debug": "^3.1.0",
+    "eventemitter3": "^3.0.0",
+    "file": "^0.2.2",
+    "fs": "0.0.1-security",
+    "idgen": "^2.0.2",
+    "ioredis": "^3.2.2",
+    "jsonwebtoken": "^7.3.0",
+    "koa": "^2.0.0",
+    "koa-bodyparser": "2.5.0",
+    "koa-convert": "^1.2.0",
+    "koa-router": "^7.1.1",
+    "koa-static": "^2.1.0",
+    "koa-static-cache": "^3.2.0",
+    "lodash": "^4.17.4",
+    "log4js": "^1.1.0",
+    "memcached": "^2.2.2",
+    "moment": "^2.17.1",
+    "mongodb": "^2.2.9",
+    "monk": "^6.0.5",
+    "mysql": "^2.15.0",
+    "node-schedule": "^1.2.3",
+    "request": "^2.79.0",
+    "socket.io": "^1.7.2",
+    "socket.io-adapter-mongo": "^2.0.1",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.1.2",
+    "eslint": "^4.14.0",
+    "eslint-config-yylint": "0.0.12"
+  }
+}
