@@ -1,8 +1,7 @@
 /***********************************************
  * Purpose: Middleware for http log.
  *
- * @author: Tower.
- * @time: 2017-5-26.
+ * @author: SeaK.
  */
 
 "use strict";
