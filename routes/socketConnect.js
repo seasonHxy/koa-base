@@ -42,7 +42,7 @@ socketConnect.ioListen = function () {
 /**
  *
  * handle all the token emit by client
- * @author wython
+ * @author seaK
  * @param token
  * @param socket
  * @param callback
