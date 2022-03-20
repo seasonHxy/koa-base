@@ -1,7 +1,6 @@
 /***********************************************************************
  * common socket js file, to build connection with server and send data.
  *
- *
  * Call example:
  * To build connection: RequestManager.init();
  * To send data: RequestManager.sendData("getData1", params, getData1Handler, 0);
